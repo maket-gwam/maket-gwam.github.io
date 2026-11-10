@@ -1,0 +1,9 @@
+/* Brand palette and typography. No external font downloads. */
+:root{
+  --navy:#253653;--accent:#B8352C;--accent-dark:#952920;--canvas:#F7F5F0;--ink:#253653;
+  --card:#FFFFFF;--line:#E3E5E9;--success:#41765D;--muted:#626D7E;--sale:#B8352C;--outer:#EFF1F5;
+  --font-display:"Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
+  --font-body:"Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
+  --purple:#6E58B0;
+  color-scheme:light;
+}
